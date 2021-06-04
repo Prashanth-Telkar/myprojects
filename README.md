@@ -1,2 +1,1 @@
-# myprojects
-my first python project
+# Machine Learning and AI
